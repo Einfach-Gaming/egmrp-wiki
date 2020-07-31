@@ -37,7 +37,7 @@ This Tutorial tells you how to install EGM:RP
 
 - Now open your garrysmod/cfg folder and open your server.cfg
 
-- Put everything you want into there but also add 'sv_hibernation_think 1', without this you'll get a message like 'Server is still starting' when you try to connect.
+- Put everything you want into there but also add 'sv_hibernate_think 1', without this you'll get a message like 'Server is still starting' when you try to connect.
 
 - Add our [Content](https://steamcommunity.com/sharedfiles/filedetails/?id=1327728430) to your collection.
 
