@@ -6,6 +6,8 @@ This Tutorial tells you how to install EGM:RP
 
 - Your server needs a valid Gameserver Login Token (GSLT) You can generate one here: https://steamcommunity.com/dev/managegameservers
 
+---
+
 **1. Download Things**
 
 - [EGM Development Website](https://egm-development.com/) Here you have to download your DRM DLL aswell as the gamemode
