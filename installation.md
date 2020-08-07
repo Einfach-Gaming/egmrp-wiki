@@ -4,7 +4,7 @@ This Tutorial tells you how to install EGM:RP
 
 **0. Prerequisites**
 
-- Your server needs a valid Gameserver Login Token (GSLT) You can generate one here: https://steamcommunity.com/dev/managegameservers?l=german
+- Your server needs a valid Gameserver Login Token (GSLT) You can generate one here: https://steamcommunity.com/dev/managegameservers
 
 **1. Download Things**
 
