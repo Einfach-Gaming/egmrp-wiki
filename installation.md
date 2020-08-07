@@ -2,7 +2,7 @@
 
 This Tutorial tells you how to install EGM:RP
 
-**0. Prerequisites **
+**0. Prerequisites**
 
 - Your server does have to have a valid Gameserver Login Token (GSLT)
 
