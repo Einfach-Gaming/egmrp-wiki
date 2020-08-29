@@ -1,4 +1,4 @@
-# Configuration
+# Installation
 
 This Tutorial tells you how to install EGM:RP
 
